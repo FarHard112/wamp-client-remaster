@@ -1,0 +1,9 @@
+*.iml
+pubspec.lock
+packages
+.idea/
+.pub
+.packages
+example/test.dart
+build/
+example/test
